@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "709006407102",
+    "firebase_url": "https://internship-project-app-sheet-default-rtdb.firebaseio.com",
+    "project_id": "internship-project-app-sheet",
+    "storage_bucket": "internship-project-app-sheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709006407102:android:2dd3c903b64289de00f5ef",
+        "android_client_info": {
+          "package_name": "com.example.app_sheet_project_task1_again"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709006407102-92kg4p1elidi961kevlrrmfv53dhg4kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpa-BP5NlXTtNKRhCLiGZCH7KDzvm8kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709006407102-92kg4p1elidi961kevlrrmfv53dhg4kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709006407102:android:7613c933fc6da0b900f5ef",
+        "android_client_info": {
+          "package_name": "com.example.onemore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709006407102-92kg4p1elidi961kevlrrmfv53dhg4kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpa-BP5NlXTtNKRhCLiGZCH7KDzvm8kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709006407102-92kg4p1elidi961kevlrrmfv53dhg4kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
